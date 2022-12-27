@@ -15,10 +15,10 @@ If you're seeing this, you've probably already done this step. Congrats!
 
 ```bash
 # create a new project in the current directory
-npx degit adroyt/sveltekit
+npx degit adroyt/sk-trpc
 
 # create a new project in my-app
-npx degit adroyt/sveltekit my-app
+npx degit adroyt/sk-trpc my-app
 ```
 
 ## Developing
