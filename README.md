@@ -46,4 +46,5 @@ You can preview the production build with `yarn preview`.
 
 [sveltekit]: https://kit.svelte.dev
 [unocss]: https://github.com/unocss/unocss
+[trpc]: https://trpc.io
 [vanilla extract]: https://vanilla-extract.style
