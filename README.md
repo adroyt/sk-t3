@@ -6,6 +6,7 @@ Everything you need to build a Svelte project, powered by [`create-svelte`](http
 | ----------- | ----------------- |
 | [Sveltekit] | Svelte Framework  |
 | [UnoCSS]    | Atomic Css engine |
+| [tRPC]      | Type-safe Backend |
 
 
 ## Creating a project
