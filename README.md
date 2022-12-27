@@ -2,11 +2,11 @@
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
-| Technology  | Usage             |
-| ----------- | ----------------- |
-| [Sveltekit] | Svelte Framework  |
-| [UnoCSS]    | Atomic Css engine |
-| [tRPC]      | Type-safe Backend |
+| Technology  | Usage                 |
+| ----------- | --------------------- |
+| [Sveltekit] | Svelte Framework      |
+| [UnoCSS]    | Atomic Css engine     |
+| [tRPC]      | End-to-end Typesafety | 
 
 
 ## Creating a project
