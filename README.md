@@ -2,13 +2,13 @@
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
-| Technology  | Usage                      |
-| ----------- | -------------------------- |
-| [Sveltekit] | Svelte Framework           |
-| [UnoCSS]    | Atomic Css engine          |
-| [tRPC]      | End-to-end Typesafety      |
-| [Prisma]    | Next-gen Typescript ORM    |
-| [Auth.js]   | NextAuth For the SvelteKit | 
+| Technology  | Usage                   |
+| ----------- | ----------------------- |
+| [Sveltekit] | Svelte Framework        |
+| [UnoCSS]    | Atomic Css engine       |
+| [tRPC]      | End-to-end Typesafety   |
+| [Prisma]    | Next-gen Typescript ORM |
+| [Auth.js]   | NextAuth For SvelteKit  |
 
 
 ## Creating a project
