@@ -1,8 +1,8 @@
-import { t } from "$trpc/router";
+import { publicProcedure, router } from "$trpc/router";
 // import { z } from "zod";
 
-export default t.router({
-  get: t.procedure.query(() => {
+export default router({
+  get: publicProcedure.query(() => {
     return "hello World";
   }),
 });
